@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Dubey</h1>
-<h5 align="center">A passionate electronics enthusiast from India, with a strong foundation in coding, circuit design, embedded systems, and hardware-software integration.</h5><br><br>
+<h6 align="center">A passionate electronics enthusiast from India, with a strong foundation in coding, circuit design, embedded systems, and hardware-software integration.</h6><br><br>
 <h2>💫 About Me:</h2>
 <br>
 🎓 2nd-year undergraduate student pursuing B. Tech in Electronics and Communication Engineering.<br><br>🤖 Specialization in AI & Cybernetics.<br><br>🏫 Studying at VIT University.<br><br>💻 Interested in Robotics, Machine Learning and IoT.<br><br>🔧 Currently learning ROS & Power Electronics.<br><br>📁 Working on academic and personal projects to gain hands-on experience.<br><br>🌱 Passionate about building real-world applications and solving problems.<br><br>🛠️ Open to exploring new technologies and collaborating on projects.<br><br>📊 Familiar with tools like VS Code, Arduino IDE, Studio and many others.<br><br>📫 Always looking to learn and improve.
